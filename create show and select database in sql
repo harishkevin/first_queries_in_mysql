@@ -1,0 +1,8 @@
+-- TO CREATE A NEW DATABASE
+create database sql_practice;
+
+-- TO SHOW ALL THE LIST OF DATABASES IN TERMINAL
+show databases;
+
+--  TO SELECT THE REQUIRED DATABASE TO QUERY
+use <database_name>;
